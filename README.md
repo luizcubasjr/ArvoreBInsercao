@@ -1,2 +1,2 @@
-# ArvoreBInsercao
-Primeiro Trabalho da Matéria de Estruturas de Dados 2
+# Inserção em Árvore B
+Algoritmo de inserção de elementos (chars e ints) em uma árvore balanceada de busca (Árvore B).
